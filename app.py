@@ -109,7 +109,7 @@ st.markdown("""
             padding: 0;
         }
             
-        div[data-testid="stSidebar"] {
+        [data-testid="stSidebar"] {
             width:270px;
         }  
             
