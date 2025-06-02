@@ -109,6 +109,10 @@ st.markdown("""
             padding: 0;
         }
             
+        div[data-testid="stSidebar"] {
+            width:270px;
+        }  
+            
         .stColumn {
             align-content: center;
         }
