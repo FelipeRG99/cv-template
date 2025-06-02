@@ -116,7 +116,7 @@ To achieve this task, I processed 5GB of images and carried out their subsequent
 In all cases, the models achieved F1 scores above 80%, with the best results reaching around 88%. Overall, this was a comprehensive Computer Vision project where I learned a great deal and implemented complex techniques and architectures. For more details:
 
 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/Segmentation-satellite-images)"
-project_personal_img_1;"Img\satelite_project.png";" "
+project_personal_img_1;"Img/satelite_project.png";" "
 project_personal_title_2;"Chatbot con RAG + Llama";"Chatbot using RAG and LLaMA."
 project_personal_resume_2;"En este proyecto realicé un chatbot con la técnica de RAG y con un modelo Llama de 3B de parámetros, aunque con la versatilidad de poder usar facilmente cualquier otro modelo.
 
@@ -131,7 +131,7 @@ This chatbot allows dynamic inclusion of external content into the conversation 
 Through this project, I gained a deeper understanding of how LLMs work and how to integrate them with RAG, along with many other functionalities that can be explored in the repository:
 
 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/chatbot-rag-llama)"
-project_personal_img_2;"Img\rag_project.png";" "
+project_personal_img_2;"Img/rag_project.png";" "
 project_personal_title_3;"Segmentación de Imagenes satelitales multi-label";"Multi-label segmentation of satellite images."
 project_personal_resume_3;"Otro proyecto de Computer Vision para segmentación, solo que en este caso con multi-etiquetado, con imágenes de Dubai tomadas satelites MBRSC.
 
@@ -150,7 +150,7 @@ To use more reliable evaluation metrics, I designed a custom Dice/F1 coefficient
 This project challenged me with new development tasks and different kinds of problems, helping me to improve my Computer Vision skills. For more details:
 
 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/Segmentation-multilabel)"
-project_personal_img_3;"Img\satelite_multi_project.png";" "
+project_personal_img_3;"Img/satelite_multi_project.png";" "
 project_personal_title_4;"Otros proyectos de física";"Additional projects in physics"
 project_personal_resume_4;"Aquí subo proyectos variados relacionado con física ya sea para poner en práctica algo de esta disciplina y a su vez tener más soltura programando. Por citar brevemente tengo dos proyectos:
 
@@ -163,7 +163,7 @@ project_personal_resume_4;"Aquí subo proyectos variados relacionado con física
 - **Heat distributions**: By applying the heat equation both numerically and analytically, I solve cases with different boundary conditions in 1D and 2D domains.
 
 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/physics-proyects)"
-project_personal_img_4;"Img\physics_project.png";" "
+project_personal_img_4;"Img/physics_project.png";" "
 project_priv_init_1;"En esta sección podrás encontrar varios proyectos privados en los que he participado y colaborado activamente. Por tanto, al ser privados o incluso confidenciales, no puedo entrar muy en detalle ni mostrar código. 
 
 Los proyectos son de varios sectores como el aeroespacial, energía, turismo, etc y  de distinto alcance; internacional, nacional y regional. Todos ellos han sido realizados en **Python** con sus mútiples librerías para anlisis, procesado, desarrollo de modelos, etc y en menor medida R para ciertos estudios estadísticos.";"In this section, you will find several private projects in which I have actively participated and contributed. Since these projects are private or even confidential, I cannot go into much detail or share any code.
@@ -175,28 +175,28 @@ project_priv_resume_1;"Proyecto de caracter internacional colaborando con empres
 En este proyecto me encargué de la creación del modelo de Machine Learning que fue capaz de realizar esas predicciones que garantizaron el anodizado correcto. Logré precisones en el espesor del anodizado final con desviaciones menores a 1 micra y con R2 superiores al 91% garantizando el éxito del proyecto. Sumado a esto, se encuentra el despligue de la solución en Google CLoud con CloudRun y su posterior integración en una fuente de alimentación.";"International project in collaboration with companies such as CIDETEC, Hereon, and Plating, aimed at developing an autonomous power supply to improve the effectiveness of anodizing processes for aerospace components.
 
 In this project, I was responsible for developing the Machine Learning model capable of making the predictions required to ensure correct anodizing. The model achieved precision in final coating thickness with deviations of less than 1 micron and R² scores above 91%, contributing to the project's overall success. In addition, I deployed the solution on Google Cloud using CloudRun and integrated it into the power supply system."
-project_priv_img_1;"Img\project_anodizado.jpg";" "
+project_priv_img_1;"Img/project_anodizado.jpg";" "
 project_priv_title_2;"Digipinta";"Digipinta"
 project_priv_resume_2;"Proyecto dentro del ámbito nacional colaborando con empresas como Metraltec/Potez, CIDETEC, DasNano y Dypromac para modernizar el sistema manual de pintado de piezas del mundo aeronautico y dar el salto aun sistema aútomatico.
 
 Además del desarrollo, realicé tareas de gestión y coordinación entre los distintos socios del proyecto. Gracias a la investigación realizada, logré el diseño de un modelo matemático para simular la deposición de pintura en superficies sumado con técnicas de Machine Learning. Los resultados fueron satisfactorios, logrando R2 del orden de 70% y con desviaciones en las piezas no superiores al 25%.";"National-level project in collaboration with companies such as Metraltec/Potez, CIDETEC, DasNano, and Dypromac, aimed at modernizing the manual painting process for aerospace components and transitioning to an automated system.
 
 In addition to the technical development, I was also involved in project management and coordination among the different partners. Through the research conducted, I designed a mathematical model to simulate paint deposition on surfaces, combined with Machine Learning techniques. The results were successful, achieving R² scores around 70% and deviations in painted components below 25%."
-project_priv_img_2;"Img\project_pintado.jpg";" "
+project_priv_img_2;"Img/project_pintado.jpg";" "
 project_priv_title_3;"MetalZero 2.0";"MetalZero 2.0"
 project_priv_resume_3;"Proyecto regional dentro del sector de energía/metal con el cluster Metaindustry4 y varias empresas del sector colaborando con ellas para la realización de mejoras en sus gastos energéticos y de emisones de CO2.
 
 En este proyecto pude realizar varios modelos de Machine Learning y de forecasting para diversas tareas. Fueron necesarios modelos para la mejora de eficiencia energetica, otros para el consumo de CO2 y varios adicionales para deteccion de anomalias con modelos no supervisados y otras técnicas.";"Regional project in the energy and metal sector, developed in collaboration with the Metaindustry4 cluster and several companies in the industry, aimed at improving energy expenditure and CO2 emissions.
 
 In this project, I developed multiple Machine Learning and forecasting models for a variety of tasks. These included models for improving energy efficiency, estimating CO2 consumption, and several others for anomaly detection using unsupervised learning techniques and other approaches."
-project_priv_img_3;"Img\metalzero_project.jpg";" "
+project_priv_img_3;"Img/metalzero_project.jpg";" "
 project_priv_title_4;"Recomendastur";"Recomendastur"
 project_priv_resume_4;"Proyecto regional en el sector turismo para diveros clientes, el cual, tiene como objetivo el desarrollo de un recomendador o chatbot que elabore rutas y destinos en Asturias, escogiendo hoteles, restaurantes, lugares turísticos, etc.
 
 Una parte de los datos entán en BBDD de SQL y otros se extraen con técnicas de Web-Scrapping. El desarrollo del bot tiene una primera capa de procesado de datos que genera una primera recomendación con resultados más en bruto. La tarea del bot desarrollado, que es un LLM basado en Llama3, es generar la recomendación final de forma que sea rica, artractiva y coherente para el usuario final.";"Regional project in the tourism sector for various clients, aimed at developing a recommender system or chatbot that builds customized routes and travel plans in Asturias, including hotels, restaurants, tourist attractions, and more.
 
 Part of the data is stored in SQL databases, while the rest is collected using web-scraping techniques. The bot’s development includes an initial data processing layer that generates a first round of raw recommendations. The final recommendation is generated by the chatbot—an LLM based on Llama3—designed to deliver rich, engaging, and coherent suggestions for the end user."
-project_priv_img_4;"Img\recon_project.png";" "
+project_priv_img_4;"Img/recon_project.png";" "
 project_priv_title_5;"Tratasat";"Tratasat"
 project_priv_resume_5;"Proyecto del sector aeroespacial de carácter nacional con miembros como Chemplate, Finetec y Titania siendo este multi-objetivo pero con el fin último de garantizar el recubrimiento en satélites y su vida útil.
 
@@ -207,14 +207,14 @@ Esto se logró comparando y entrenando modelos como DeepLab,U-Net y YOLOv8 para 
 My specific contribution focused on Computer Vision, particularly the detection of tin whiskers that form on various satellite alloys and can lead to malfunctions. In addition to detection, classification and segmentation tasks were also carried out to extract relevant information such as shape and size.
 
 This was achieved by training and comparing models such as DeepLab, U-Net, and YOLOv8 for the assigned tasks. Current project metrics include a classification recall of 92% and a segmentation accuracy of 91%."
-project_priv_img_5;"Img\tratasat_project.jpg";" "
+project_priv_img_5;"Img/tratasat_project.jpg";" "
 project_priv_title_6;"Proyecto ATM (confidencial)";"Confidential ATM Project"
 project_priv_resume_6;"Proyecto piloto de ámbito nacional donde colaboré con un equipo multidisciplinar en el área de Gestión del Tráfico Aéreo (ATM), participé en un proyecto orientado a la mejora de la eficiencia operativa en rutas de vuelo europeas de alta densidad.
 
 Mi labor se centró en el asesoramiento técnico en modelado predictivo y en el análisis de grandes volúmenes de datos aeronáuticos, incluyendo trayectorias de vuelo, condiciones meteorológicas y patrones de congestión aérea, con datos de multiples fuentes por un lado y de OpenSky Network por otro.";"National-level pilot project in which I collaborated with a multidisciplinary team in the field of Air Traffic Management (ATM). The project focused on improving operational efficiency in high-density European flight routes.
 
 My role centered on technical advisory for predictive modeling and the analysis of large volumes of aeronautical data, including flight trajectories, weather conditions, and air congestion patterns. The data came from multiple sources, including the OpenSky Network."
-project_priv_img_6;"Img\atm_project.jpg";" "
+project_priv_img_6;"Img/atm_project.jpg";" "
 contact_resume_1;"Puedes escribirme a: [feliperagar.99@gmail.com](mailto:feliperagar.99@gmail.com) o [felipe.ramon.garcia.99@gmail.com](mailto:felipe.ramon.garcia.99@gmail.com)
 
 También puedes encontrarme en:

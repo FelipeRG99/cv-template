@@ -286,7 +286,7 @@ if st.session_state.category=="Inicio":
 
     col1, col2 = st.columns([1, 2]) 
     with col1:
-            imagen = cargar_imagen('Img\CV_Felipe_imagen_5.png')
+            imagen = cargar_imagen('Img/CV_Felipe_imagen_5.png')
             st.image(imagen, use_container_width =True)
     with col2:
             st.write(translations['first_resume_1'][st.session_state.lan])
