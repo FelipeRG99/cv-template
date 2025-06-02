@@ -418,10 +418,10 @@ elif st.session_state.category=="Proyectos Privados":
 elif st.session_state.category=="Contacto":
     opacity_list=['50%','50%','50%','50%','100%']    
     if st.session_state.lan=='es':
-        path_cv='Data\CV_Felipe_Ramon_ES.pdf'
+        path_cv='Data/CV_Felipe_Ramon_ES.pdf'
         pdf_data=get_pdf(path_cv)
     else:
-        path_cv='Data\CV_Felipe_Ramon_EN.pdf'
+        path_cv='Data/CV_Felipe_Ramon_EN.pdf'
         pdf_data=get_pdf(path_cv)
 
 
