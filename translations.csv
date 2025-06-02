@@ -1,0 +1,229 @@
+type;es;en
+init;Hola;Hi	
+default;" ";" "
+about_me_1;" ";" "	
+section_nav;"Menu";"Menu"
+section_up;"🔝 Volver arriba";"🔝 Back to top"
+section_contact;"📫 Contacto";"📫 Contact"
+section_init;"🏠 Inicio";"🏠 Presentation"
+section_about_me;"👤 Sobre mí";"👤 About me"
+section_project_priv;"📂 Proyectos Privados";"📂 Private Projects"
+section_project_pers;"📂 Proyectos Personales";"📂 Personal Projects"
+first_resume_1;"Bienvenido a mi portfolio interactivo. Aquí encontrarás algunos de mis proyectos de ciencia de datos tanto personales donde podrás ver el código del mismo como privados realizados en empresa. Además, también podrás ver mis títulos y experienza laboral.
+
+Soy Data Scientist con +2 años de experiencia, trabajando en I+D en proyectos tanto nacionales como internacionales, además de contar con experiencia en la gestión y coordinación de dichos proyectos,orientados al ámbito aeroespacial y ATM (Gestión de tráfico aéreo), energía, turismo, etc. Apasionadode este sector, me gustan los retos y la innovación ya que siempre esuna oportunidad de aprender y crecer.
+
+Por destacar, poseo un B2 en inglés (FCE) y me fue otorgado el segundo premio al mejor TFM por la UCM en el máster en Big Data & Business Analytics, en donde además obtuve una matrícula de honor con una nota de 9.77.";"Welcome to my interactive portfolio. Here you’ll find a selection of my data science projects, both personal (with open-source code available) and private ones developed in a corporate setting. You can also explore my academic background and professional experience.
+
+I’m a Data Scientist with over 2 years of experience, working in R&D on both national and international projects. I also have hands-on experience in project management and coordination, particularly in fields such as aerospace and Air Traffic Management (ATM), energy, tourism, and more. Passionate about this field, I enjoy challenges and innovation as they’re always an opportunity to learn and grow.
+
+As a highlight, I hold a B2 level in English (FCE) and was awarded Second Prize for Best Master’s Thesis by the Complutense University of Madrid (UCM) in the Master’s in Big Data & Business Analytics where I also graduated with honors (final grade: 9.77/10)."
+company_init_1;" ";" "	
+company_title_1;Data Scientist - Talento Corporativo (Ene. 2024);Data Scientist - Talento Corporativo (Jan. 2024)	
+company_resume_1;"Como Data Scientist tuve la oportunidad de desarrollar soluciones de I+D+i en múltiples sectores, destacando el sector aeroespacial para tareas de analisis de ATM y control de superficies. Otros sectores serían el de energía/industría para control de consumos y emisiones, turismo para predicción de precios y chatbots, entre otros. Algunas de las tareas realizadas son las siguientes:
+
+- Desarrollo de soluciones basadas en el uso de Machine Learning (Xgboost, random forest, gradient boosting) para modelos predictivos en tareas de regresión y clasificación junto con modelos estadísticos para forecasting (ARIMA).
+- Deep learning para tareas de computer vision(Deeplab, Unet, YOLO) en detección, clasificación y segmentación.
+- Modelos y procesado de lenguaje natural para IA generativa (Llama, GPT, RAG).  
+- Análisis, procesado de datos y presentación de resultados. 
+- Despliegue de soluciones con Docker en GCP (Vertex AI, CloudRun...).
+- Investigación en proyectos I+D+i así como gestión y coordinación de estos mismos proyectos.";"As a Data Scientist, I had the opportunity to develop R&D&I solutions across multiple sectors, with a particular focus on the aerospace sector for ATM analysis and surface control tasks. Other sectors included energy/industry for consumption and emissions control, tourism for price prediction and chatbots, among others. Some of the tasks performed include:
+
+- Development of solutions based on Machine Learning (XGBoost, Random Forest, Gradient Boosting) for predictive models in regression and classification tasks, along with statistical models for forecasting (ARIMA).
+- Deep learning for computer vision tasks (Deeplab, Unet, YOLO) in detection, classification, and segmentation.
+- Natural language processing models for generative AI (LLaMA, GPT, RAG).
+- Data analysis, processing, and results presentation.
+- Deployment of solutions using Docker on GCP (Vertex AI, CloudRun...).
+- Research in R&D projects as well as management and coordination of these same projects."
+company_title_2;Software Engineer/Data Analyst - Capgemini (Mar. 2023 - Ene. 2024);Software Engineer/Data Analyst - Capgemini (Mar. 2023 - Jan. 2024)
+company_resume_2;"En Capgemini tuve la oportunidad de empezar en el mundo laboral de la mejor manera posible, trabajando con la plataforma de Salesforce en el sector automovilistico, en concreto para Stellantis. Aunque empecé como Software Engineer, debido a mi background, pude ir migrando más hacia puestos de Data Analyst/Science desempeñando estas tareas:
+
+- Diseño de soluciones para la plataforma Salesforce mediante el uso de apex y javascript. 
+- Extracción, depurado y análisis de datos (procesos ETL) con SQL y Python(Pandas, numpy, sklearn,...).
+- Tareas de gestión y administración de Salesforce";"At Capgemini, I had the opportunity to start my professional career in the best possible way, working with the Salesforce platform in the automotive sector, specifically for Stellantis. Although I started as a Software Engineer, due to my background, I gradually transitioned into more Data Analyst/Science-oriented roles, performing the following tasks:
+
+- Designing solutions for the Salesforce platform using Apex and JavaScript.
+- Data extraction, cleaning, and analysis (ETL processes) using SQL and Python (Pandas, NumPy, scikit-learn, ...).
+- Salesforce management and administration tasks."
+academic_title_1;Máster en Big Data & Business Analytics;Master in Big Data & Business Analytics
+academic_resume_1;"**Universidad Complutense de Madrid - 2023/2024**
+
+En estos estudios de Máster tuve la oportunidad de aprender y aplicar muchas nuevas tecnologías a la par que expandir otras previas. Algunos de estos son:
+
+- Trabajo con tecnologías como Python, R.
+- Conocimiento de ambientes Cloud como Google cloud y AWS.
+- Conocimiento de BBDD como SQL (MySQL,PostgreSQL) y NoSQL (MongoDB)
+- Técnicas de NLP e IA generativa como analisis de sentimiento, Llama, GPT.
+- Desarrollo de modelos de Deep learning para computer Vision como U-Net y YOLO, uso de fine-tunning y transfer learning.
+- Procesado, Analisis y uso avanzado de Machine Learning (Xgboost, random forest, gradient boosting).
+
+Además, recibí la **matrícula de honor** con una nota de 9.77 junto con un premio de la competición de becas de la UCM al **segundo mejor TFM**: Técnicas de Deep Learning para la detección y predicción del cáncer de mama.";"**University Complutense of Madrid - 2023/2024**
+During these Master's studies, I had the opportunity to learn and apply many new technologies while expanding on previous knowledge. Some of these include:
+
+- Working with technologies such as Python and R.
+- Knowledge of Cloud environments like Google Cloud and AWS.
+- Knowledge of databases such as SQL (MySQL, PostgreSQL) and NoSQL (MongoDB).
+- NLP and generative AI techniques such as sentiment analysis, LLaMA, and GPT.
+- Development of Deep Learning models for computer vision such as U-Net and YOLO, including fine-tuning and transfer learning.
+- Processing, analysis, and advanced use of Machine Learning (XGBoost, Random Forest, Gradient Boosting).
+
+In addition, I received **highest honors** with a final grade of 9.77, along with an award from the UCM scholarship competition for the **second-best Master's Thesis**: Deep Learning Techniques for Breast Cancer Detection and Prediction.
+"
+academic_title_2;Máster en Ciencia y Técnología espacial;Master in Space Science and Technology
+academic_resume_2;"**Universidad del País Vasco - 2023/2024**
+
+En este Máster tuve la ocasión de aprender y prácticar acerca de diversas técnologías del sector aeroespacial así de colaborar con agencias como la ESA. Algunas de estas cualidades han sido:
+
+- Analisis y procesado de imágenes/datos de espacio (GIS) en Python y Matlab.
+- Analisis de datos metereológicos y aplicación de modelos como ARIMA.
+- Procesado y control de datos ATM (Air traffic Management).
+- Manejo de sensores e instrumentación óptica";"**University of País Vasco - 2021/2022**
+In this Master's program, I had the opportunity to learn and practice various technologies related to the aerospace sector, as well as collaborate with agencies such as the ESA. Some of the skills acquired include:
+
+- Analysis and processing of space images/data (GIS) using Python and MATLAB.
+- Analysis of meteorological data and application of models such as ARIMA.
+- Processing and control of ATM (Air Traffic Management) data.
+- Handling of sensors and optical instrumentation."
+academic_title_3;Grado en Física;Degree in Physics
+academic_resume_3;"**Universidad de Oviedo - 2017/2021**
+
+En este grado pude desarrollar múltiples cualidades orientadas a resolver problemas de muchos tipos diferentes. Relacionado con el resto de mi background, las competencias mas importantes que adquiri son las siguientes:
+
+- Desarrollo y práctica en Python de diversos métodos númericos y modelos mátematicos para resolver problemas.
+- Estudio y conocimiento avanzado tanto de matemáticas como de estadistica aplicada.
+- Investigación y resolución de problemas.
+- Control y manejo de distintos dispositivos y sensores, más orientados a óptica.
+- Conocimiento profundo de múltiples fenómenos físicos.";"**University of Oviedo - 2017/2021**
+During this Bachelor's degree, I was able to develop a wide range of problem-solving skills across various domains. In relation to the rest of my background, the most important competencies I acquired include:
+
+- Development and practice in Python of various numerical methods and mathematical models to solve problems.
+- Advanced study and understanding of both mathematics and applied statistics.
+- Research and problem-solving.
+- Control and handling of various devices and sensors, mostly focused on optics.
+- In-depth knowledge of multiple physical phenomena."
+project_personal_init_1;"En esta sección podrás encontrar varios proyectos personales que he ido haciendo en mi tiempo libre y que me han permitido adquirir habilidades que he podido aplicar a futuro en proyectos más avanzados. Además, al ser personales también son públicos, por lo que tienen enlaces a sus correspondientes repositorios de GitHub.";"In this section, you will find several personal projects that I have worked on in my free time, which have allowed me to acquire skills that I later applied to more advanced projects. Additionally, since these are personal projects, they are also public and include links to their corresponding GitHub repositories."
+project_personal_title_1;"Detección/Segmentación de Imagenes satelitales de urbanizaciones";"Detection/Segmentation of satellite images of urban areas."
+project_personal_resume_1;"Este proyecto parte de un dataset de imágenes saletitales de Massachusetts, con el objetivo de tratar de distinguir edificios y carreteras.
+
+Para lograr esta tarea tuve que hacer un procesado de 5Gb de imágenes y su posterior analisis. Luego de esto usé una arquitectura U-Net desarrollada desde cero frente a otra del paquete `segmentation_models`. Probé métodos distintos; como entrenar con las imágenes cambiandoles su tamaño y otro como es haciendo cortes más pequeños a cada imagen, obteniendo muchas más. También probé a entrenar con los dos datasets juntos y por separado.
+
+Los resultados fueron en todos los casos coeficientes F1 superiores al 80%, rondando en los mejores casos el 88%. En genral un proyecto de Computer Vision donde pude aprender mucho y desarrollar técnicas y arquitecturas complejas. Para ver más:
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/Segmentation-satellite-images) ";"This project is based on a satellite image dataset from Massachusetts, with the goal of identifying buildings and roads.
+
+To achieve this task, I processed 5GB of images and carried out their subsequent analysis. I then implemented a U-Net architecture from scratch and compared it to another one from the `segmentation_models` package. I tested different methods, such as training with resized images and an alternative approach of slicing each image into smaller patches, significantly increasing the dataset size. I also experimented with training on the combined dataset versus training on each subset separately.
+
+In all cases, the models achieved F1 scores above 80%, with the best results reaching around 88%. Overall, this was a comprehensive Computer Vision project where I learned a great deal and implemented complex techniques and architectures. For more details:
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/Segmentation-satellite-images)"
+project_personal_img_1;"Img\satelite_project.png";" "
+project_personal_title_2;"Chatbot con RAG + Llama";"Chatbot using RAG and LLaMA."
+project_personal_resume_2;"En este proyecto realicé un chatbot con la técnica de RAG y con un modelo Llama de 3B de parámetros, aunque con la versatilidad de poder usar facilmente cualquier otro modelo.
+
+Este chatbot permite agregar al contexto de la conversación con RAG cualquier archivo pdf, csv o txt e incluso paginas de wikipedia accediendo a ellas dinámicamente. Se puede elegir si se quiere mantener la info de otros archivos o solo contar con el último archivo añadido. Además, también he añadido en este flujo de trabajo un modelo para hacer Re-Rank y que la info añadida al contexto sea más fiable.
+
+Gracias a todo lo desarrollado pude entender mejor como funcionan los LLM y como integrarlos con RAG junto con otras muchas funcionalidades que pueden verse en el repositorio:
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/chatbot-rag-llama)";"In this project, I built a chatbot using the RAG technique and a 3B-parameter LLaMA model, with the flexibility to easily switch to other models if needed.
+
+This chatbot allows dynamic inclusion of external content into the conversation context via RAG, supporting file formats such as PDF, CSV, and TXT, as well as dynamically accessed Wikipedia pages. Users can choose whether to retain information from previously added documents or only use the most recent one. Additionally, I integrated a Re-Ranking model into the workflow to ensure that the information added to the context is more reliable and relevant.
+
+Through this project, I gained a deeper understanding of how LLMs work and how to integrate them with RAG, along with many other functionalities that can be explored in the repository:
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/chatbot-rag-llama)"
+project_personal_img_2;"Img\rag_project.png";" "
+project_personal_title_3;"Segmentación de Imagenes satelitales multi-label";"Multi-label segmentation of satellite images."
+project_personal_resume_3;"Otro proyecto de Computer Vision para segmentación, solo que en este caso con multi-etiquetado, con imágenes de Dubai tomadas satelites MBRSC.
+
+Proyecto más dificil que el anterior, debido al multi-etiquetado y a que este no es tan preciso. En este seguí una estrategia de recorte aleatorio de imágenes para generar más muestras. Sumado a esto, diseñé arquitecturas desde cero para DeepLab y U-Net. Por otro lado, usé un modelo YOLOv8 con el procesado especial que lleva este modelo.
+
+Para usar métricas más fiables, diseñé un coeficiente de Dice/F1 válido para el formato usado y pude aplicarlo en el entrenamiento de los modelos DeepLab y U-Net. Obtuve resultados bastante buenos para lo que es el dataset, por ejemplo en el caso de DeepLab un Dice del 73%.
+
+En este pryecto me pude enfrentar a nuevos desarrollos y problemas distintos que me ayudaron a mejorar mis habilidades en Computer Vision. Para ver más:
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/Segmentation-multilabel) ";"Another Computer Vision project focused on segmentation, but in this case using multi-label classification with satellite images of Dubai taken by MBRSC satellites.
+
+This project was more challenging than the previous one due to the multi-label nature of the task and the lower precision of the dataset. I followed a strategy of randomly cropping the images to generate more samples. In addition, I designed DeepLab and U-Net architectures from scratch. I also used a YOLOv8 model, taking into account the specific preprocessing required by this architecture.
+
+To use more reliable evaluation metrics, I designed a custom Dice/F1 coefficient adapted to the dataset format and applied it during training of the DeepLab and U-Net models. I achieved solid results considering the complexity of the dataset, such as a Dice score of 73% with DeepLab.
+
+This project challenged me with new development tasks and different kinds of problems, helping me to improve my Computer Vision skills. For more details:
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/Segmentation-multilabel)"
+project_personal_img_3;"Img\satelite_multi_project.png";" "
+project_personal_title_4;"Otros proyectos de física";"Additional projects in physics"
+project_personal_resume_4;"Aquí subo proyectos variados relacionado con física ya sea para poner en práctica algo de esta disciplina y a su vez tener más soltura programando. Por citar brevemente tengo dos proyectos:
+
+- **Problema de N-cuerpos**: extiendo el problema de los 3 cuerpos a N-cuerpos y lo pongo a prueba usando datos reales de la NASA usando la API Horizon, con pronósticos a un año con desviaciones del orden del 3%.
+- **Distribuciones de calor**: Aplicando la ecuación de calor por resolución númerica y analítica la aplico a casos con distintas condiciones de contorno para casos 1D y 2D.
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/physics-proyects)";"Here I share a variety of projects related to physics, created both to explore concepts from this field and to gain more fluency in programming. Briefly, two of the featured projects are:
+
+- **N-body problem**: I extend the classic three-body problem to an N-body scenario and test it using real NASA data through the Horizon API, producing one-year forecasts with deviations around 3%.
+- **Heat distributions**: By applying the heat equation both numerically and analytically, I solve cases with different boundary conditions in 1D and 2D domains.
+
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/physics-proyects)"
+project_personal_img_4;"Img\physics_project.png";" "
+project_priv_init_1;"En esta sección podrás encontrar varios proyectos privados en los que he participado y colaborado activamente. Por tanto, al ser privados o incluso confidenciales, no puedo entrar muy en detalle ni mostrar código. 
+
+Los proyectos son de varios sectores como el aeroespacial, energía, turismo, etc y  de distinto alcance; internacional, nacional y regional. Todos ellos han sido realizados en **Python** con sus mútiples librerías para anlisis, procesado, desarrollo de modelos, etc y en menor medida R para ciertos estudios estadísticos.";"In this section, you will find several private projects in which I have actively participated and contributed. Since these projects are private or even confidential, I cannot go into much detail or share any code.
+
+The projects span various sectors such as aerospace, energy, tourism, among others, and vary in scope—international, national, and regional. All of them were developed primarily in **Python**, using a wide range of libraries for analysis, data processing, and model development, with R being used to a lesser extent for certain statistical studies."
+project_priv_title_1;"Autotread";"Autotread"
+project_priv_resume_1;"Proyecto de caracter internacional colaborando con empresas como CIDETEC, Hereon y Plating para lograr generar una fuente de alimentación aútonoma para mejorar la efectividad de los procesos de anodizado de piezas en aeronautica.
+
+En este proyecto me encargué de la creación del modelo de Machine Learning que fue capaz de realizar esas predicciones que garantizaron el anodizado correcto. Logré precisones en el espesor del anodizado final con desviaciones menores a 1 micra y con R2 superiores al 91% garantizando el éxito del proyecto. Sumado a esto, se encuentra el despligue de la solución en Google CLoud con CloudRun y su posterior integración en una fuente de alimentación.";"International project in collaboration with companies such as CIDETEC, Hereon, and Plating, aimed at developing an autonomous power supply to improve the effectiveness of anodizing processes for aerospace components.
+
+In this project, I was responsible for developing the Machine Learning model capable of making the predictions required to ensure correct anodizing. The model achieved precision in final coating thickness with deviations of less than 1 micron and R² scores above 91%, contributing to the project's overall success. In addition, I deployed the solution on Google Cloud using CloudRun and integrated it into the power supply system."
+project_priv_img_1;"Img\project_anodizado.jpg";" "
+project_priv_title_2;"Digipinta";"Digipinta"
+project_priv_resume_2;"Proyecto dentro del ámbito nacional colaborando con empresas como Metraltec/Potez, CIDETEC, DasNano y Dypromac para modernizar el sistema manual de pintado de piezas del mundo aeronautico y dar el salto aun sistema aútomatico.
+
+Además del desarrollo, realicé tareas de gestión y coordinación entre los distintos socios del proyecto. Gracias a la investigación realizada, logré el diseño de un modelo matemático para simular la deposición de pintura en superficies sumado con técnicas de Machine Learning. Los resultados fueron satisfactorios, logrando R2 del orden de 70% y con desviaciones en las piezas no superiores al 25%.";"National-level project in collaboration with companies such as Metraltec/Potez, CIDETEC, DasNano, and Dypromac, aimed at modernizing the manual painting process for aerospace components and transitioning to an automated system.
+
+In addition to the technical development, I was also involved in project management and coordination among the different partners. Through the research conducted, I designed a mathematical model to simulate paint deposition on surfaces, combined with Machine Learning techniques. The results were successful, achieving R² scores around 70% and deviations in painted components below 25%."
+project_priv_img_2;"Img\project_pintado.jpg";" "
+project_priv_title_3;"MetalZero 2.0";"MetalZero 2.0"
+project_priv_resume_3;"Proyecto regional dentro del sector de energía/metal con el cluster Metaindustry4 y varias empresas del sector colaborando con ellas para la realización de mejoras en sus gastos energéticos y de emisones de CO2.
+
+En este proyecto pude realizar varios modelos de Machine Learning y de forecasting para diversas tareas. Fueron necesarios modelos para la mejora de eficiencia energetica, otros para el consumo de CO2 y varios adicionales para deteccion de anomalias con modelos no supervisados y otras técnicas.";"Regional project in the energy and metal sector, developed in collaboration with the Metaindustry4 cluster and several companies in the industry, aimed at improving energy expenditure and CO2 emissions.
+
+In this project, I developed multiple Machine Learning and forecasting models for a variety of tasks. These included models for improving energy efficiency, estimating CO2 consumption, and several others for anomaly detection using unsupervised learning techniques and other approaches."
+project_priv_img_3;"Img\metalzero_project.jpg";" "
+project_priv_title_4;"Recomendastur";"Recomendastur"
+project_priv_resume_4;"Proyecto regional en el sector turismo para diveros clientes, el cual, tiene como objetivo el desarrollo de un recomendador o chatbot que elabore rutas y destinos en Asturias, escogiendo hoteles, restaurantes, lugares turísticos, etc.
+
+Una parte de los datos entán en BBDD de SQL y otros se extraen con técnicas de Web-Scrapping. El desarrollo del bot tiene una primera capa de procesado de datos que genera una primera recomendación con resultados más en bruto. La tarea del bot desarrollado, que es un LLM basado en Llama3, es generar la recomendación final de forma que sea rica, artractiva y coherente para el usuario final.";"Regional project in the tourism sector for various clients, aimed at developing a recommender system or chatbot that builds customized routes and travel plans in Asturias, including hotels, restaurants, tourist attractions, and more.
+
+Part of the data is stored in SQL databases, while the rest is collected using web-scraping techniques. The bot’s development includes an initial data processing layer that generates a first round of raw recommendations. The final recommendation is generated by the chatbot—an LLM based on Llama3—designed to deliver rich, engaging, and coherent suggestions for the end user."
+project_priv_img_4;"Img\recon_project.png";" "
+project_priv_title_5;"Tratasat";"Tratasat"
+project_priv_resume_5;"Proyecto del sector aeroespacial de carácter nacional con miembros como Chemplate, Finetec y Titania siendo este multi-objetivo pero con el fin último de garantizar el recubrimiento en satélites y su vida útil.
+
+Por mi parte, mi objetivo fue orientado al Computer Vision, en concreto a detectar los tin whiskers que se producen en distintas aleaciones que llevan los satélites y que acaban ocasionando malfuncionamientos. Para ello, además de detectar también se llevaron acabo tareas de clasificación y segmentación de los mismos para extraer información relevante de ellos como forma o tamaño.
+
+Esto se logró comparando y entrenando modelos como DeepLab,U-Net y YOLOv8 para las distintas tareas encomendadas. Lás métricas hasta el momento del proyecto son de un 92% en el recall de clasificación y un 91% en la precisión de segmentación del objeto.";"National aerospace-sector project with partners such as Chemplate, Finetec, and Titania. The project had multiple objectives, with the ultimate goal of ensuring proper coating of satellite components and extending their operational lifespan.
+
+My specific contribution focused on Computer Vision, particularly the detection of tin whiskers that form on various satellite alloys and can lead to malfunctions. In addition to detection, classification and segmentation tasks were also carried out to extract relevant information such as shape and size.
+
+This was achieved by training and comparing models such as DeepLab, U-Net, and YOLOv8 for the assigned tasks. Current project metrics include a classification recall of 92% and a segmentation accuracy of 91%."
+project_priv_img_5;"Img\tratasat_project.jpg";" "
+project_priv_title_6;"Proyecto ATM (confidencial)";"Confidential ATM Project"
+project_priv_resume_6;"Proyecto piloto de ámbito nacional donde colaboré con un equipo multidisciplinar en el área de Gestión del Tráfico Aéreo (ATM), participé en un proyecto orientado a la mejora de la eficiencia operativa en rutas de vuelo europeas de alta densidad.
+
+Mi labor se centró en el asesoramiento técnico en modelado predictivo y en el análisis de grandes volúmenes de datos aeronáuticos, incluyendo trayectorias de vuelo, condiciones meteorológicas y patrones de congestión aérea, con datos de multiples fuentes por un lado y de OpenSky Network por otro.";"National-level pilot project in which I collaborated with a multidisciplinary team in the field of Air Traffic Management (ATM). The project focused on improving operational efficiency in high-density European flight routes.
+
+My role centered on technical advisory for predictive modeling and the analysis of large volumes of aeronautical data, including flight trajectories, weather conditions, and air congestion patterns. The data came from multiple sources, including the OpenSky Network."
+project_priv_img_6;"Img\atm_project.jpg";" "
+contact_resume_1;"Puedes escribirme a: [feliperagar.99@gmail.com](mailto:feliperagar.99@gmail.com) o [felipe.ramon.garcia.99@gmail.com](mailto:felipe.ramon.garcia.99@gmail.com)
+
+También puedes encontrarme en:
+
+- GitHub: [github](https://github.com/FelipeRG99)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/feliperamongarcia99)";"You can reach me at:  [feliperagar.99@gmail.com](mailto:feliperagar.99@gmail.com)  or [felipe.ramon.garcia.99@gmail.com](mailto:felipe.ramon.garcia.99@gmail.com)
+
+You can also find me on:
+
+- GitHub: [github](https://github.com/FelipeRG99)  
+- LinkedIn: [linkedin](https://www.linkedin.com/in/feliperamongarcia99)"
+contact_button_1;"📄 Descargar CV en PDF";"📄 Download CV in PDF"
