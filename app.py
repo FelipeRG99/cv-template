@@ -113,6 +113,10 @@ st.markdown("""
             width:270px;
         }  
             
+        [data-testid="stMainBlockContainer"] {
+            padding: 1rem 1rem 10rem;
+        }            
+            
         .stColumn {
             align-content: center;
         }
