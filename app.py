@@ -125,7 +125,7 @@ st.markdown("""
             
         button[data-testid="stBaseButton-secondary"]{
             width: 300px;
-            height: 50px; 
+            height: 40px; 
             opacity:50%;     
             font-weight: bold;    
         }
@@ -137,7 +137,7 @@ st.markdown("""
         .stHeading{
             display: flex;
             justify-content: center;
-            padding:2rem;
+            padding:0.5rem;
         }
             
         div[data-testid="stVerticalBlock"] > div:nth-child(5){
@@ -283,6 +283,7 @@ if st.session_state.category=="Inicio":
 
 
     st.title("📊🚀 Felipe Ramón García - Data Scientist")
+    st.markdown("""---""",unsafe_allow_html=True) 
 
     col1, col2 = st.columns([1, 2]) 
     with col1:
@@ -295,7 +296,7 @@ if st.session_state.category=="Inicio":
 # ABOUT ME
 ##############################################################################
 elif st.session_state.category=="Sobre mí":
-    opacity_list=['50%','100%','50%','50%','50%']    
+    opacity_list=['50%','100%','50%','50%','50%']
 
     init_type,experiencias=get_elements_type(translations,kind='company')
     _,academic=get_elements_type(translations,kind='academic')
@@ -352,6 +353,7 @@ elif st.session_state.category=="Proyectos Personales":
     init_type,proyectos=get_elements_type(translations,kind='project_personal')
 
     st.header(translations['section_project_pers'][st.session_state.lan])
+    st.markdown("""---""",unsafe_allow_html=True) 
     st.write(translations[init_type][st.session_state.lan])
 
     # Mostrar los proyectos con layout alternado
@@ -386,6 +388,7 @@ elif st.session_state.category=="Proyectos Privados":
     init_type,proyectos=get_elements_type(translations,kind='project_priv')
 
     st.header(translations['section_project_priv'][st.session_state.lan])
+    st.markdown("""---""",unsafe_allow_html=True) 
     st.write(translations[init_type][st.session_state.lan])
 
     # Mostrar los proyectos con layout alternado
@@ -423,6 +426,7 @@ elif st.session_state.category=="Contacto":
 
 
     st.header(translations['section_contact'][st.session_state.lan])
+    st.markdown("""---""",unsafe_allow_html=True) 
     st.markdown(translations['contact_resume_1'][st.session_state.lan])
 
     _,col2,_=st.columns(3)
