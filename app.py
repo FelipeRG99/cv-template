@@ -5,8 +5,6 @@ from PIL import Image
 ##############################################################################
 ##############################################################################
 ##############################################################################
-#opacity_list=['100%','50%','50%','50%','50%']
-#init_page=False
 #feliperamongarcia
 
 ##############################################################################
@@ -27,7 +25,7 @@ def get_pdf(path):
         pdf_data = file.read()
     return pdf_data
 
-#@st.cache_data
+@st.cache_data
 def load_translations(path="translations.csv"):
     df = pd.read_csv(path,sep=';')
     df['es']=df['es'].apply(lambda x:x.replace('\r',''))
@@ -176,25 +174,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-#st.markdown("""
-#    <style>
-#        div[data-testid="stSidebarUserContent"] > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(6)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1){
-#                flex-direction: row;
-#                gap: 0;
-#                justify-content: center;
-#                    }
-#            
-#        div[data-testid="stSidebarUserContent"] > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(6)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1) > div:nth-child(2)> div:nth-child(1)> button:nth-child(1){
-#                width: 125px;
-#                border-radius: 0px;
-#                    }   
-#        div[data-testid="stSidebarUserContent"] > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(6)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1) > div:nth-child(1)> div:nth-child(1)> button:nth-child(1){
-#                width: 125px;
-#                border-radius: 0px;
-#                    }   
-#    </style>
-#""", unsafe_allow_html=True)
-
 
 ##############################################################################
 # SIDEBAR
@@ -219,17 +198,6 @@ st.sidebar.markdown(
     "<div style='height: 50px;'></div>", unsafe_allow_html=True
 )
 
-#st.sidebar.markdown("""
-#<div style="display: flex; font-weight: bold;">
-#    <form action="?theme=light" method="get" style="flex: 1;">
-#        <button style="width: 100%; padding: 8px; background:#f0f0f0; border:1px solid #ccc;">ES</button>
-#    </form>
-#    <form action="?theme=dark" method="get" style="flex: 1;">
-#        <button style="width: 100%; padding: 8px; background:#333; color:white; border:1px solid #666;">EN</button>
-#    </form>
-#</div>
-#""", unsafe_allow_html=True)
-
 col1 = st.sidebar.columns(1)
 with col1[0]:
     if st.button("ES", key="lan_es"):
@@ -243,18 +211,6 @@ with col1[0]:
 st.sidebar.markdown(
     "<div style='height: 25px;'></div>", unsafe_allow_html=True
 )
-
-
-#col1 = st.sidebar.columns(1)
-#with col1[0]:
-#    if st.button("☀️ Claro", key="light_button"):
-#        st.session_state.light_theme=True
-#    if st.button("🌙 Oscuro", key="dark_button2"):
-#        st.session_state.light_theme=False
-
-#st.sidebar.markdown(
-#    "<div style='height: 25px;'></div>", unsafe_allow_html=True
-#)
 
 st.sidebar.markdown(f"""
 <a href="#top">
@@ -310,10 +266,6 @@ elif st.session_state.category=="Sobre mí":
     _,academic=get_elements_type(translations,kind='academic')
 
     st.title(translations['section_about_me'][st.session_state.lan])
-    #st.write("""
-    #Soy un analista de datos con experiencia en proyectos de machine learning, análisis financiero y visualización. 
-    #Aquí algunos de mis proyectos destacados:
-    #""")
     st.markdown("""---""",unsafe_allow_html=True) 
 
     ## Mostrar cada bloque
@@ -385,8 +337,6 @@ elif st.session_state.category=="Proyectos Personales":
                 imagen = cargar_imagen(proyecto["imagen"])
                 st.image(imagen, use_container_width =True)
         
-
-
 ##############################################################################
 # PRIVATE PROJECTS
 ##############################################################################
@@ -440,7 +390,7 @@ elif st.session_state.category=="Contacto":
     _,col2,_=st.columns(3)
 
     with col2:
-        # Crea el botón de descarga
+        # botón de descarga
         st.download_button(
             label=translations['contact_button_1'][st.session_state.lan],
             data=pdf_data,
@@ -469,23 +419,6 @@ for i in range(1,6):
         unsafe_allow_html=True
     )
 
-#change theme
-#for i in range(1,3):
-#    style_sidebar_button=f'[data-testid="stSidebarUserContent"] > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(6)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1)> div:nth-child(1) > div:nth-child({i})> div:nth-child(1)> button:nth-child(1)'
-#    opacity= '100%' if ((st.session_state.light_theme and i==1) or (not st.session_state.light_theme and i==2)) else '50%'
-#    color='black' if opacity=='100%' else 'grey'
-#    st.markdown(
-#        f"""
-#        <style>
-#        {style_sidebar_button}{{
-#            opacity: {opacity};
-#            transition: opacity 0.5s ease;
-#            border-color:{color};
-#        }}
-#        </style>
-#        """,
-#        unsafe_allow_html=True
-#    )
 #feliperamongarcia
 #change language
 for i in range(1,3):

@@ -9,11 +9,11 @@ section_init;"🏠 Inicio";"🏠 Presentation"
 section_about_me;"👤 Sobre mí";"👤 About me"
 section_project_priv;"📂 Proyectos Privados";"📂 Private Projects"
 section_project_pers;"📂 Proyectos Personales";"📂 Personal Projects"
-first_resume_1;"Bienvenido a mi portfolio interactivo. Aquí encontrarás algunos de mis proyectos de ciencia de datos tanto personales donde podrás ver el código del mismo como privados realizados en empresa. Además, también podrás ver mis títulos y experienza laboral.
+first_resume_1;"Bienvenido a mi portfolio interactivo desarrollado integramente en **Python** con el paquete de **Streamlit**. Aquí encontrarás algunos de mis proyectos de ciencia de datos tanto personales donde podrás ver el código del mismo como privados realizados en empresa. Además, también podrás ver mis títulos y experiencia laboral.
 
 Soy Data Scientist con +2 años de experiencia, trabajando en I+D en proyectos tanto nacionales como internacionales, además de contar con experiencia en la gestión y coordinación de dichos proyectos,orientados al ámbito aeroespacial y ATM (Gestión de tráfico aéreo), energía, turismo, etc. Apasionadode este sector, me gustan los retos y la innovación ya que siempre esuna oportunidad de aprender y crecer.
 
-Por destacar, poseo un B2 en inglés (FCE) y me fue otorgado el segundo premio al mejor TFM por la UCM en el máster en Big Data & Business Analytics, en donde además obtuve una matrícula de honor con una nota de 9.77.";"Welcome to my interactive portfolio. Here you’ll find a selection of my data science projects, both personal (with open-source code available) and private ones developed in a corporate setting. You can also explore my academic background and professional experience.
+Por destacar, poseo un B2 en inglés (FCE) y me fue otorgado el segundo premio al mejor TFM por la UCM en el máster en Big Data & Business Analytics, en donde además obtuve una matrícula de honor con una nota de 9.77.";"Welcome to my interactive portfolio, developed entirely in Python using the Streamlit package. Here you’ll find a selection of my data science projects, both personal (with open-source code available) and private ones developed in a corporate setting. You can also explore my academic background and professional experience.
 
 I’m a Data Scientist with over 2 years of experience, working in R&D on both national and international projects. I also have hands-on experience in project management and coordination, particularly in fields such as aerospace and Air Traffic Management (ATM), energy, tourism, and more. Passionate about this field, I enjoy challenges and innovation as they’re always an opportunity to learn and grow.
 
@@ -105,13 +105,13 @@ project_personal_init_1;"En esta sección podrás encontrar varios proyectos per
 project_personal_title_1;"Detección/Segmentación de Imagenes satelitales de urbanizaciones";"Detection/Segmentation of satellite images of urban areas."
 project_personal_resume_1;"Este proyecto parte de un dataset de imágenes saletitales de Massachusetts, con el objetivo de tratar de distinguir edificios y carreteras.
 
-Para lograr esta tarea tuve que hacer un procesado de 5Gb de imágenes y su posterior analisis. Luego de esto usé una arquitectura U-Net desarrollada desde cero frente a otra del paquete `segmentation_models`. Probé métodos distintos; como entrenar con las imágenes cambiandoles su tamaño y otro como es haciendo cortes más pequeños a cada imagen, obteniendo muchas más. También probé a entrenar con los dos datasets juntos y por separado.
+Para lograr esta tarea tuve que hacer un procesado de 5Gb de imágenes y su posterior analisis. Luego de esto usé una arquitectura U-Net desarrollada desde cero frente a otra del paquete **segmentation_models**. Probé métodos distintos; como entrenar con las imágenes cambiandoles su tamaño y otro como es haciendo cortes más pequeños a cada imagen, obteniendo muchas más. También probé a entrenar con los dos datasets juntos y por separado.
 
 Los resultados fueron en todos los casos coeficientes F1 superiores al 80%, rondando en los mejores casos el 88%. En genral un proyecto de Computer Vision donde pude aprender mucho y desarrollar técnicas y arquitecturas complejas. Para ver más:
 
 [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/FelipeRG99/Segmentation-satellite-images) ";"This project is based on a satellite image dataset from Massachusetts, with the goal of identifying buildings and roads.
 
-To achieve this task, I processed 5GB of images and carried out their subsequent analysis. I then implemented a U-Net architecture from scratch and compared it to another one from the `segmentation_models` package. I tested different methods, such as training with resized images and an alternative approach of slicing each image into smaller patches, significantly increasing the dataset size. I also experimented with training on the combined dataset versus training on each subset separately.
+To achieve this task, I processed 5GB of images and carried out their subsequent analysis. I then implemented a U-Net architecture from scratch and compared it to another one from the **segmentation_models** package. I tested different methods, such as training with resized images and an alternative approach of slicing each image into smaller patches, significantly increasing the dataset size. I also experimented with training on the combined dataset versus training on each subset separately.
 
 In all cases, the models achieved F1 scores above 80%, with the best results reaching around 88%. Overall, this was a comprehensive Computer Vision project where I learned a great deal and implemented complex techniques and architectures. For more details:
 
